@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Sliem Mohamed Ahmed 👋
 
-<!--
-**SliemMohamed1/SliemMohamed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Analyst | IT Student at Assiut University**
 
-Here are some ideas to get you started:
+I'm a passionate Information Technology undergraduate specializing in Cybersecurity and Purple Teaming methodologies. I enjoy designing secure software architectures, configuring networks, and solving complex technical challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛡️ About Me
+- 🎓 Studying Information Technology at **Assiut University** (Expected 2028).
+- 🔒 Focusing on **Vulnerability Assessment, Threat Modeling, and Network Security**.
+- 💻 Currently building secure backend systems and exploring Red/Blue team tactics.
+
+#### 🛠️ Tech Stack & Tools
+- **Languages & Frameworks:** Python, Node.js, Django
+- **Databases:** PostgreSQL, MySQL, SQL
+- **Security & Networking:** Vulnerability Scanning, CCNA Fundamentals, Purple Teaming
+- **Tools:** Apache JMeter, Git, GitHub, Linear
+
+#### 🚀 Featured Projects
+- **Waffarha Offer Purchase Workflow:** Secure coupon cancellation endpoint with Optimistic Concurrency.
+- **Multi-Sport Matchmaker System:** Centralized platform with secure multi-role authentication.
+
+#### 📫 How to reach me
+- **LinkedIn:** [linkedin.com/in/sliem-mohamed](https://linkedin.com/in/sliem-mohamed)
