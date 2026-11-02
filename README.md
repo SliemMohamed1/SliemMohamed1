@@ -7,17 +7,16 @@ I'm a passionate Information Technology undergraduate specializing in Cybersecur
 #### 🛡️ About Me
 - 🎓 Studying Information Technology at **Assiut University** (Expected 2028).
 - 🔒 Focusing on **Vulnerability Assessment, Threat Modeling, and Network Security**.
-- 💻 Currently building secure backend systems and exploring Red/Blue team tactics.
+- 💻 Currently focusing on secure system design and exploring Red/Blue team tactics.
 
 #### 🛠️ Tech Stack & Tools
-- **Languages & Frameworks:** Python, Node.js, Django
-- **Databases:** PostgreSQL, MySQL, SQL
+- **Languages & Databases:** Python, C++, C, SQL, PostgreSQL, MySQL
 - **Security & Networking:** Vulnerability Scanning, CCNA Fundamentals, Purple Teaming
-- **Tools:** Apache JMeter, Git, GitHub, Linear
+- **Tools:** GitHub, Linear, Flowgorithm, draw.io
 
 #### 🚀 Featured Projects
-- **Waffarha Offer Purchase Workflow:** Secure coupon cancellation endpoint with Optimistic Concurrency.
-- **Multi-Sport Matchmaker System:** Centralized platform with secure multi-role authentication.
+- **Waffarha Offer Purchase Workflow:** Secure coupon cancellation endpoint and software architecture documentation.
+- **Multi-Sport Matchmaker System:** Centralized platform design integrating stakeholder analysis and evaluation workflows.
 
 #### 📫 How to reach me
 - **LinkedIn:** [linkedin.com/in/sliem-mohamed](https://linkedin.com/in/sliem-mohamed)
